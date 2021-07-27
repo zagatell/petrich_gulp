@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+.git_first_info {
+    display: inline-block;
+    width: 300px;
+    padding: 10px;
+    border: 1px solid rgb(126, 134, 252);
+}
+
+.git_second_info {
+    display: inline-block;
+    width: 300px;
+    padding: 10px;
+    border: 1px solid rgb(126, 134, 252);
+}
